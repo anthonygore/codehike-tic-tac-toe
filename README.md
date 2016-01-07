@@ -16,6 +16,3 @@ Overview of steps:
 6. Add a reset button to clear the tiles
 7. Add logic to decide if a player has won
 8. If the game is won, display message and freeze board
-
-
-https://rawgit.com/wayneho/Tic_Tac_Toe/master/index.html
