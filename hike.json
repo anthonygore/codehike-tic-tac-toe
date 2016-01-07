@@ -1,0 +1,22 @@
+{
+  "name": "Tic Tac Toe in JS",
+  "description": "JS implementation of the classic Tic Tac Toe game as per the guidelines of The Odin Project",
+  "author": "Anthony Gore",
+  "github": "anthonygore/codehike-tic-tac-toe",
+  "tags": [
+    "js"
+  ],
+  "steps" : [
+    {
+      "step" : 1,
+      "baseDir" : "1",
+      "instructions": "instructions.md",
+      "code" : [
+        "index.html",
+        "style.css",
+        "script.js"
+      ],
+      "test" : "test.js"
+    }
+  ]
+}
