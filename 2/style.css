@@ -23,11 +23,6 @@ h1 {
     width: 70px;
     display: inline-block;
     border: 1px solid black;
-    position: relative;
-}
-
-.tile > div {
-    position: absolute
 }
 
 

@@ -17,6 +17,17 @@
         "script.js"
       ],
       "test" : "test.js"
+    },
+    {
+      "step" : 2,
+      "baseDir" : "2",
+      "instructions": "instructions.md",
+      "code" : [
+        "../1/index.html",
+        "../1/style.css",
+        "script.js"
+      ],
+      "test" : "test.js"
     }
   ]
 }
