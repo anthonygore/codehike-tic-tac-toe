@@ -11,23 +11,23 @@
       "step" : 1,
       "baseDir" : "1",
       "instructions": "instructions.md",
-      "code" : [
-        "index.html",
-        "style.css",
-        "script.js"
-      ],
-      "test" : "test.js"
+      "code" : {
+        "html" : ["index.html"],
+        "css" : ["style.css"],
+        "js" : ["script.js"],
+        "test" : ["test.js"]
+      }
     },
     {
       "step" : 2,
       "baseDir" : "2",
       "instructions": "instructions.md",
-      "code" : [
-        "../1/index.html",
-        "../1/style.css",
-        "script.js"
-      ],
-      "test" : "test.js"
+      "code" : {
+        "html" : ["../1/index.html"],
+        "css" : ["../1/style.css"],
+        "js" : ["script.js"],
+        "test" : ["test.js"]
+      }
     }
   ]
 }
