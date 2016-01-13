@@ -23,8 +23,8 @@
       "baseDir" : "2",
       "instructions": "instructions.md",
       "code" : {
-        "html" : ["../1/index.html"],
-        "css" : ["../1/style.css"],
+        "html" : ["index.html"],
+        "css" : ["style.css"],
         "js" : ["script.js"],
         "test" : ["test.js"]
       }
